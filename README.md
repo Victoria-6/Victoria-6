@@ -6,12 +6,18 @@
 - 🌱 Currently learning python programming language, SQL, R, Power BI, & Tableau.
 - 💞️ I’m looking to collaborate on: ** Open-source data science projects.
 
-#### 🛠️ Technical Stack
+<details>
+<summary><b>🛠️ View Detailed Technical Stack & Tooling</b></summary>
+<br />
 
-- 🐍 **Statistical Programming & Scripting:** `Python` (Pandas, NumPy, Matplotlib, Seaborn) | `R` (tidyverse, ggplot2, dplyr)
-- 🗄️ **Database Management & Querying:** `SQL` | `PostgreSQL` (pgAdmin 4) | `MySQL Workbench`
-- 📊 **Business Intelligence & Dashboards:** `Microsoft Power BI` | `Tableau Public` | `Advanced Excel` (PivotTables, VLOOKUP, Macros)
-- 🔄 **Data Lifecycle & Frameworks:** Exploratory Data Analysis (EDA) • Data Cleaning & Validation • Relational Database Modeling • Statistical Trend Analysis
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **Statistical Computing** | `Python` (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, `R` (tidyverse, ggplot2, dplyr) |
+| **Database Systems** | `SQL`, `Google Cloud BigQuery`, `PostgreSQL` (pgAdmin 4), `MySQL Workbench` |
+| **BI & Analytics** | `Microsoft Power BI` (DAX, Power Query), `Tableau Public`, `Advanced Excel` |
+| **Methodologies** | Exploratory Data Analysis (EDA), Data Cleaning, Data Visualisation, Relational Modeling, Trend Analysis, Predictive Analysis | 
+
+</details>
 
 ---
 
@@ -30,6 +36,7 @@
   <a href="https://linkedin.com/in/wwww.linkedin.com/in/victoria-chidiebere"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:victoriachidiebere6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 <!---
 Victoria-6/Victoria-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
