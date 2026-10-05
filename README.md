@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Victoria-6
+👋 Hi, I’m Victoria Chidiebere (@Victoria-6)
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning python programming language and SQL
 - 💞️ I’m looking to collaborate on data science projects 
